@@ -1,0 +1,3 @@
+# Obsidian Vault Template
+
+このリポジトリではObsidianを用いた分散型知識管理のためのVaultのテンプレート構築を目指す。
